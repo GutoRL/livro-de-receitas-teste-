@@ -4,4 +4,7 @@
 
 Frango
 Creme de leite
+Ketchup
+Mostarda
+Molho de tomate
 Sal
