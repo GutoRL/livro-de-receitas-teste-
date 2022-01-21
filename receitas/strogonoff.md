@@ -2,6 +2,6 @@
 
 ## Ingredientes 
 
-Banana
-
+Frango
+Creme de leite
 Sal
